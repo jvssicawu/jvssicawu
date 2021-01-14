@@ -2,7 +2,7 @@
 
 <p align="center"><img src="assets/profilePic.svg" height="150" width="150"></p>
 
-<h3 align="center">4th year computer science undergrad @ <a href="https://www.ubc.ca/">UBC</a> | Intern @ <a href="https://www.sap.com/index.html">SAP</a> | Formerly @ <a href="https://hootsuite.com/">Hootsuite</a></h3>
+<h3 align="center">4th year computer science undergrad @ <a href="https://www.ubc.ca/">UBC</a> | Formerly @ <a href="https://www.sap.com/index.html">SAP</a>, <a href="https://hootsuite.com/">Hootsuite</a></h3>
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/jvssicawu/"><img src="assets/LinkedInDark.svg"></a>
